@@ -20,7 +20,7 @@ The list is separated into Free and Paid and broken into subsections based on lo
  - [OANDA](https://github.com/oanda/py-api-streaming) - HTTP based FOREX rates stream through the OANDA API.
  - [CoinCap](https://docs.coincap.io) - Provides real-time pricing and market activity for over 1,000 cryptocurrencies
  - [Polygon.io](https://polygon.io/docs/stocks/getting-started) - Provides real‑time stock market and cryptocurrency data from all US exchanges via REST and WebSocket endpoints.
- - [FinancialData.Net](https://financialdata.net/documentation) - Free subscription available. Real-time stock, ETF and crypto data.
+ - [FinancialData.Net](https://financialdata.net/documentation) - Stock market data, financial statements, insider and institutional trading data, sustainability data, earnings releases, and much more.
 
 ### Transportation
  - [Open Rail Data](https://wiki.openraildata.com/index.php/Rail_Data_FAQ) - A collection of APIs that provide data relating to the UK rail network, including reference data, train timetables, and live service updates. The live data is streamed using the STOMP protocol.
